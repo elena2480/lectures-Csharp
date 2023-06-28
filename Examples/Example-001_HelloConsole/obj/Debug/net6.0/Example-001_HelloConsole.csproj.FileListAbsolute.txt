@@ -1,0 +1,15 @@
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\bin\Debug\net6.0\Example-001_HelloConsole.exe
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\bin\Debug\net6.0\Example-001_HelloConsole.deps.json
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\bin\Debug\net6.0\Example-001_HelloConsole.runtimeconfig.json
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\bin\Debug\net6.0\Example-001_HelloConsole.dll
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\bin\Debug\net6.0\Example-001_HelloConsole.pdb
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\obj\Debug\net6.0\Example-001_HelloConsole.csproj.AssemblyReference.cache
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\obj\Debug\net6.0\Example-001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\obj\Debug\net6.0\Example-001_HelloConsole.AssemblyInfoInputs.cache
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\obj\Debug\net6.0\Example-001_HelloConsole.AssemblyInfo.cs
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\obj\Debug\net6.0\Example-001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\obj\Debug\net6.0\Example-001_HelloConsole.dll
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\obj\Debug\net6.0\refint\Example-001_HelloConsole.dll
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\obj\Debug\net6.0\Example-001_HelloConsole.pdb
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\obj\Debug\net6.0\Example-001_HelloConsole.genruntimeconfig.cache
+D:\АЛЁНА\GeekBrains\C#шарп\lecture1\Examples\Example-001_HelloConsole\obj\Debug\net6.0\ref\Example-001_HelloConsole.dll
